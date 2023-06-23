@@ -1,0 +1,9 @@
+[package]
+name = "rhai-ptr"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rhai = { version = "1.15.0", features = ["unchecked"] }
