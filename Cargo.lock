@@ -142,7 +142,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rhai-ptr"
+name = "rhai-pointer-context"
 version = "0.1.0"
 dependencies = [
  "rhai",
